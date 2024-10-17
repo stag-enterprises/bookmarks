@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :102: for Floccus bookmark sync browser extension -->
+<!--- highestId :103: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>root</title>
@@ -297,6 +297,9 @@
     </bookmark>
     <bookmark href="https://input.djr.com/info/" id="28">
       <title>input ~ font for code</title>
+    </bookmark>
+    <bookmark href="https://shapecatcher.com/" id="103">
+      <title>shapecatcher - recognize unicode from drawing</title>
     </bookmark>
   </folder>
   <folder id="19">
