@@ -4,6 +4,7 @@ import { JSDOM } from "jsdom";
 import { stringify } from "yaml";
 
 const SITE_TITLE = "bookmarks";
+const BOOKMARKS_FILE = "./bookmarks.xbel";
 
 const getName = i => i.querySelector("title").textContent;
 const getItems = i => Array.from(i.children).filter(ii => ii.tagName === "BOOKMARK" || ii.tagName === "FOLDER");
@@ -30,7 +31,7 @@ const toStaticMark = i => i.map(ii => ({
 	})),
 }));
 
-const xbel = new JSDOM(await Bun.file("./bookmarks.xbel").text()).window.document.querySelector("xbel");
+const xbel = new JSDOM(await Bun.file(BOOKMARKS_FILE).text()).window.document.querySelector("xbel");
 const bookmarksSortless = getItems(xbel).map(parseFolder);
 const shouldBeLast = i => i.name.includes("/");
 const bookmarks = [...bookmarksSortless.filter(i => !shouldBeLast(i)), ...bookmarksSortless.filter(shouldBeLast)];
