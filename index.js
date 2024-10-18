@@ -36,6 +36,7 @@ const xbel = new JSDOM(await Bun.file(BOOKMARKS_FILE).text()).window.document.qu
 const bookmarksSortless = getItems(xbel).map(parseFolder);
 const shouldBeLast = i => i.name.includes("#");
 const bookmarks = [...bookmarksSortless.filter(i => !shouldBeLast(i)), ...bookmarksSortless.filter(shouldBeLast)];
+console.log(`Loaded ${indent(bookmarks).length} collections: ${indent(bookmarks).map(i => i.name).join(" ")}`);
 
 console.log("Cleaning output");
 await $`mkdir -p bookmarks && rm -r bookmarks && mkdir bookmarks`;
