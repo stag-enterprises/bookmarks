@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :106: for Floccus bookmark sync browser extension -->
+<!--- highestId :107: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>dev</title>
@@ -313,6 +313,9 @@
   </bookmark>
   <bookmark href="https://github.com/jackyzha0/quartz" id="106">
     <title>jackyzha0/quartz: 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites</title>
+  </bookmark>
+  <bookmark href="https://hono.dev/" id="107">
+    <title>Hono - Web framework built on Web Standards</title>
   </bookmark>
 </folder>
 </xbel>
