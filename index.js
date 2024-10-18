@@ -31,12 +31,18 @@ const toStaticMark = i => i.map(ii => ({
 	})),
 }));
 
+console.log("[Reading XBEL");
 const xbel = new JSDOM(await Bun.file(BOOKMARKS_FILE).text()).window.document.querySelector("xbel");
 const bookmarksSortless = getItems(xbel).map(parseFolder);
 const shouldBeLast = i => i.name.includes("#");
 const bookmarks = [...bookmarksSortless.filter(i => !shouldBeLast(i)), ...bookmarksSortless.filter(shouldBeLast)];
 
+console.log("Cleaning output");
 await $`mkdir -p ./bookmarks && rm -r ./bookmarks && mkdir ./bookmarks`;
+
+console.log("Converting bookmarks");
 for (let i of indent(bookmarks)) await Bun.write(`./bookmarks/${i.name}.yml`, stringify({ [i.name]: toStaticMark(indent(i.content)) }));
+
+console.log("Building site")
 await $`bunx static-marks build ./bookmarks/*.yml -t ${SITE_TITLE} > ./bookmarks/index.html`;
 
