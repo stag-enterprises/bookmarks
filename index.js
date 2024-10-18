@@ -33,7 +33,7 @@ const toStaticMark = i => i.map(ii => ({
 
 const xbel = new JSDOM(await Bun.file(BOOKMARKS_FILE).text()).window.document.querySelector("xbel");
 const bookmarksSortless = getItems(xbel).map(parseFolder);
-const shouldBeLast = i => i.name.includes("/");
+const shouldBeLast = i => i.name.includes("#");
 const bookmarks = [...bookmarksSortless.filter(i => !shouldBeLast(i)), ...bookmarksSortless.filter(shouldBeLast)];
 
 await $`mkdir -p ./bookmarks && rm -r ./bookmarks && mkdir ./bookmarks`;
