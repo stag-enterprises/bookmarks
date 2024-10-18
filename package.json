@@ -1,0 +1,13 @@
+{
+  "name": "bookmarks",
+  "module": "index.js",
+  "dependencies": {
+    "jsdom": "^25.0.1",
+    "static-marks": "^3.0.0",
+    "yaml": "^2.6.0"
+  },
+  "scripts": {
+    "start": "bun run index.js"
+  },
+  "type": "module"
+}
