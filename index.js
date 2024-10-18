@@ -45,5 +45,5 @@ console.log("Converting bookmarks");
 for (let i of indent(bookmarks)) await Bun.write(`./bookmarks/${i.name}.yml`, stringify({ [i.name]: toStaticMark(indent(i.content)) }));
 
 console.log("Building site")
-await $`bunx static-marks build ./bookmarks/*.yml -t ${SITE_TITLE} > ./bookmarks/index.html`;
+await $`bunx static-marks build ./bookmarks/*.yml --title ${SITE_TITLE} --template-file template.html > ./bookmarks/index.html`;
 
