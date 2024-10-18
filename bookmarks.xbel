@@ -3,8 +3,68 @@
 <xbel version="1.0">
 <!--- highestId :103: for Floccus bookmark sync browser extension -->
 
+<folder id="2">
+  <title>dev</title>
+  <folder id="14">
+    <title>terminal</title>
+    <bookmark href="https://github.com/zyedidia/eget" id="20">
+      <title>eget ~ gitub release binary downloader</title>
+    </bookmark>
+    <bookmark href="https://bash-prompt-generator.org/" id="21">
+      <title>bash prompt generator</title>
+    </bookmark>
+  </folder>
+  <folder id="15">
+    <title>api</title>
+    <bookmark href="https://blobcdn.com/" id="22">
+      <title>blobcdn ~ blob shape svg generator</title>
+    </bookmark>
+    <bookmark href="https://statically.io/" id="23">
+      <title>statically ~ cdn for github, gitlab, bitbucket, wordpress, and images</title>
+    </bookmark>
+    <bookmark href="https://favicone.com/" id="24">
+      <title>favicone ~ favicon grabber</title>
+    </bookmark>
+  </folder>
+  <folder id="16">
+    <title>design</title>
+    <bookmark href="https://penpot.app/" id="25">
+      <title>penpot ~ ui design with collaboration</title>
+    </bookmark>
+  </folder>
+</folder>
+<folder id="3">
+  <title>ware</title>
+  <folder id="17">
+    <title>chromeOS</title>
+    <bookmark href="https://github.com/chromebrew/chromebrew" id="26">
+      <title>chromebrew ~ package manager for chromeos</title>
+    </bookmark>
+  </folder>
+  <folder id="18">
+    <title>media</title>
+    <bookmark href="https://www.navidrome.org/" id="27">
+      <title>navidrome ~ music streaming</title>
+    </bookmark>
+    <bookmark href="https://input.djr.com/info/" id="28">
+      <title>input ~ font for code</title>
+    </bookmark>
+    <bookmark href="https://shapecatcher.com/" id="29">
+      <title>shapecatcher - recognize unicode from drawing</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=02mdjK4xH8U" id="103">
+      <title>Subnautica - I love it when you come inside me! - YouTube</title>
+    </bookmark>
+  </folder>
+  <folder id="19">
+    <title>net</title>
+    <bookmark href="https://github.com/darekkay/static-marks" id="30">
+      <title>static marks - bookmarks as a static page</title>
+    </bookmark>
+  </folder>
+</folder>
 <folder id="1">
-  <title># root</title>
+  <title>root</title>
   <bookmark href="https://overflow.adminforge.de/exchange/askubuntu.com/questions/62290/how-do-i-list-installed-software-with-the-installed-size" id="4">
     <title>How do I list installed software with the installed size? | AnonymousOverflow</title>
   </bookmark>
@@ -251,65 +311,5 @@
   <bookmark href="https://gist.github.com/robinbraemer/716cd5066f038aa95146766fb588fecf" id="102">
     <title>Free ipinfo.io Business plan features</title>
   </bookmark>
-</folder>
-<folder id="2">
-  <title>dev</title>
-  <folder id="14">
-    <title>terminal</title>
-    <bookmark href="https://github.com/zyedidia/eget" id="20">
-      <title>eget ~ gitub release binary downloader</title>
-    </bookmark>
-    <bookmark href="https://bash-prompt-generator.org/" id="21">
-      <title>bash prompt generator</title>
-    </bookmark>
-  </folder>
-  <folder id="15">
-    <title>api</title>
-    <bookmark href="https://blobcdn.com/" id="22">
-      <title>blobcdn ~ blob shape svg generator</title>
-    </bookmark>
-    <bookmark href="https://statically.io/" id="23">
-      <title>statically ~ cdn for github, gitlab, bitbucket, wordpress, and images</title>
-    </bookmark>
-    <bookmark href="https://favicone.com/" id="24">
-      <title>favicone ~ favicon grabber</title>
-    </bookmark>
-  </folder>
-  <folder id="16">
-    <title>design</title>
-    <bookmark href="https://penpot.app/" id="25">
-      <title>penpot ~ ui design with collaboration</title>
-    </bookmark>
-  </folder>
-</folder>
-<folder id="3">
-  <title>ware</title>
-  <folder id="17">
-    <title>chromeOS</title>
-    <bookmark href="https://github.com/chromebrew/chromebrew" id="26">
-      <title>chromebrew ~ package manager for chromeos</title>
-    </bookmark>
-  </folder>
-  <folder id="18">
-    <title>media</title>
-    <bookmark href="https://www.navidrome.org/" id="27">
-      <title>navidrome ~ music streaming</title>
-    </bookmark>
-    <bookmark href="https://input.djr.com/info/" id="28">
-      <title>input ~ font for code</title>
-    </bookmark>
-    <bookmark href="https://shapecatcher.com/" id="29">
-      <title>shapecatcher - recognize unicode from drawing</title>
-    </bookmark>
-    <bookmark href="https://www.youtube.com/watch?v=02mdjK4xH8U" id="103">
-      <title>Subnautica - I love it when you come inside me! - YouTube</title>
-    </bookmark>
-  </folder>
-  <folder id="19">
-    <title>net</title>
-    <bookmark href="https://github.com/darekkay/static-marks" id="30">
-      <title>static marks - bookmarks as a static page</title>
-    </bookmark>
-  </folder>
 </folder>
 </xbel>
