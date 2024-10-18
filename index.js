@@ -4,7 +4,7 @@ import { JSDOM } from "jsdom";
 import { stringify } from "yaml";
 
 const SITE_TITLE = "bookmarks";
-const BOOKMARKS_FILE = "./bookmarks.xbel";
+const BOOKMARKS_FILE = "bookmarks.xbel";
 
 const getName = i => i.querySelector("title").textContent;
 const getItems = i => Array.from(i.children).filter(ii => ii.tagName === "BOOKMARK" || ii.tagName === "FOLDER");
@@ -31,14 +31,14 @@ const toStaticMark = i => i.map(ii => ({
 	})),
 }));
 
-console.log("[Reading XBEL");
+console.log("Reading XBEL");
 const xbel = new JSDOM(await Bun.file(BOOKMARKS_FILE).text()).window.document.querySelector("xbel");
 const bookmarksSortless = getItems(xbel).map(parseFolder);
 const shouldBeLast = i => i.name.includes("#");
 const bookmarks = [...bookmarksSortless.filter(i => !shouldBeLast(i)), ...bookmarksSortless.filter(shouldBeLast)];
 
 console.log("Cleaning output");
-await $`mkdir -p ./bookmarks && rm -r ./bookmarks && mkdir ./bookmarks`;
+await $`mkdir -p bookmarks && rm -r bookmarks && mkdir bookmarks`;
 
 console.log("Converting bookmarks");
 for (let i of indent(bookmarks)) await Bun.write(`./bookmarks/${i.name}.yml`, stringify({ [i.name]: toStaticMark(indent(i.content)) }));
