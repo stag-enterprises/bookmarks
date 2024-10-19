@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :113: for Floccus bookmark sync browser extension -->
+<!--- highestId :114: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>dev</title>
@@ -334,6 +334,9 @@
   </bookmark>
   <bookmark href="https://emoji.build/deal-with-it-generator/" id="113">
     <title>Deal With It GIF emoji generator</title>
+  </bookmark>
+  <bookmark href="https://parrotify.github.io/" id="114">
+    <title>Party Parrot as a Service</title>
   </bookmark>
 </folder>
 </xbel>
