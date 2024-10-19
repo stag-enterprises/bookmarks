@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :119: for Floccus bookmark sync browser extension -->
+<!--- highestId :120: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>dev</title>
@@ -352,6 +352,9 @@
   </bookmark>
   <bookmark href="https://pudding.cool/2024/10/crokinole/play/" id="119">
     <title>Crokinole Simulator 3000</title>
+  </bookmark>
+  <bookmark href="https://repobeats.axiom.co/" id="120">
+    <title>Beautiful insights for your GitHub repositories</title>
   </bookmark>
 </folder>
 </xbel>
