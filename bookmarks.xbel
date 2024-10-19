@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :115: for Floccus bookmark sync browser extension -->
+<!--- highestId :116: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>dev</title>
@@ -340,6 +340,9 @@
   </bookmark>
   <bookmark href="https://graphite.rs/" id="115">
     <title>Graphite | Web-based vector graphics editor and design tool</title>
+  </bookmark>
+  <bookmark href="https://browser.engineering/index.html" id="116">
+    <title>Web Browser Engineering</title>
   </bookmark>
 </folder>
 </xbel>
