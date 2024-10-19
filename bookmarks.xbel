@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :121: for Floccus bookmark sync browser extension -->
+<!--- highestId :122: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>dev</title>
@@ -358,6 +358,9 @@
   </bookmark>
   <bookmark href="https://how-i-experience-web-today.com/" id="121">
     <title>how-i-experience-web-today.com</title>
+  </bookmark>
+  <bookmark href="https://modem.io/blog/blog-monetization/" id="122">
+    <title>How to Monetize a Blog</title>
   </bookmark>
 </folder>
 </xbel>
