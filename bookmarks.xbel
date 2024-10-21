@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :131: for Floccus bookmark sync browser extension -->
+<!--- highestId :132: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>dev</title>
@@ -385,6 +385,9 @@
   </bookmark>
   <bookmark href="https://syncthing.net/" id="131">
     <title>Syncthing</title>
+  </bookmark>
+  <bookmark href="https://mods.factorio.com/mod/enable-all-feature-flags" id="132">
+    <title>Enable all Feature Flags - Factorio Mods</title>
   </bookmark>
 </folder>
 </xbel>
