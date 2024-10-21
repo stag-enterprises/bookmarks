@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :138: for Floccus bookmark sync browser extension -->
+<!--- highestId :139: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>dev</title>
@@ -406,6 +406,9 @@
   </bookmark>
   <bookmark href="https://github.com/RSS-Bridge/rss-bridge" id="138">
     <title>RSS-Bridge/rss-bridge: The RSS feed for websites missing it</title>
+  </bookmark>
+  <bookmark href="https://www.slowernews.com/" id="139">
+    <title>Slower News</title>
   </bookmark>
 </folder>
 </xbel>
