@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :137: for Floccus bookmark sync browser extension -->
+<!--- highestId :138: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>dev</title>
@@ -403,6 +403,9 @@
   </bookmark>
   <bookmark href="https://www.lockss.org/" id="137">
     <title>LOCKSS Program</title>
+  </bookmark>
+  <bookmark href="https://github.com/RSS-Bridge/rss-bridge" id="138">
+    <title>RSS-Bridge/rss-bridge: The RSS feed for websites missing it</title>
   </bookmark>
 </folder>
 </xbel>
