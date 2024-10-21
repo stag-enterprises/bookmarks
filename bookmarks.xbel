@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :129: for Floccus bookmark sync browser extension -->
+<!--- highestId :130: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>dev</title>
@@ -379,6 +379,9 @@
   </bookmark>
   <bookmark href="https://telegra.ph/api" id="129">
     <title>Telegraph API – Telegraph</title>
+  </bookmark>
+  <bookmark href="https://docs.keydb.dev/" id="130">
+    <title>KeyDB - The Faster Redis Alternative</title>
   </bookmark>
 </folder>
 </xbel>
