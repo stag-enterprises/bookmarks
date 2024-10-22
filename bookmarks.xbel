@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :143: for Floccus bookmark sync browser extension -->
+<!--- highestId :144: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>dev</title>
@@ -421,6 +421,9 @@
   </bookmark>
   <bookmark href="https://chatgpt.com/?model=gpt-4o-mini" id="143">
     <title>ChatGPT</title>
+  </bookmark>
+  <bookmark href="https://github.com/nh2/internal-contstrained-pki" id="144">
+    <title>nh2/internal-contstrained-pki: Safely shareable TLS root CA for .internal networks using Name Constraints</title>
   </bookmark>
 </folder>
 </xbel>
