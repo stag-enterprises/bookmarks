@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :148: for Floccus bookmark sync browser extension -->
+<!--- highestId :149: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>dev</title>
@@ -430,6 +430,9 @@
   </bookmark>
   <bookmark href="https://news.ycombinator.com/item?id=41037197" id="148">
     <title>There is also &apos;lsd&apos; but I still prefer eza. For everyone interested there is a l... | Hacker News</title>
+  </bookmark>
+  <bookmark href="https://sectools.org/" id="149">
+    <title>SecTools.Org Top Network Security Tools</title>
   </bookmark>
 </folder>
 </xbel>
