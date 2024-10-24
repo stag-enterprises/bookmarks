@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :149: for Floccus bookmark sync browser extension -->
+<!--- highestId :178: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>dev</title>
@@ -433,6 +433,93 @@
   </bookmark>
   <bookmark href="https://sectools.org/" id="149">
     <title>SecTools.Org Top Network Security Tools</title>
+  </bookmark>
+  <bookmark href="https://syncthing.net/" id="150">
+    <title>Syncthing</title>
+  </bookmark>
+  <bookmark href="https://www.hyphanet.org/" id="151">
+    <title>Hyphanet</title>
+  </bookmark>
+  <bookmark href="https://www.lockss.org/" id="152">
+    <title>LOCKSS Program</title>
+  </bookmark>
+  <bookmark href="https://www.slowernews.com/" id="153">
+    <title>Slower News</title>
+  </bookmark>
+  <bookmark href="https://coderscat.com/" id="154">
+    <title>Coder&apos;s Cat</title>
+  </bookmark>
+  <bookmark href="http://www.xaraxtreme.org/" id="155">
+    <title>Home - Xara Xtreme</title>
+  </bookmark>
+  <bookmark href="https://syncthing.net/" id="156">
+    <title>Syncthing</title>
+  </bookmark>
+  <bookmark href="https://www.slowernews.com/" id="157">
+    <title>Slower News</title>
+  </bookmark>
+  <bookmark href="https://coderscat.com/" id="158">
+    <title>Coder&apos;s Cat</title>
+  </bookmark>
+  <bookmark href="https://www.lockss.org/" id="159">
+    <title>LOCKSS Program</title>
+  </bookmark>
+  <bookmark href="https://www.hyphanet.org/" id="160">
+    <title>Hyphanet</title>
+  </bookmark>
+  <bookmark href="http://www.xaraxtreme.org/" id="161">
+    <title>Home - Xara Xtreme</title>
+  </bookmark>
+  <bookmark href="https://www.slowernews.com/" id="162">
+    <title>Slower News</title>
+  </bookmark>
+  <bookmark href="https://www.lockss.org/" id="163">
+    <title>LOCKSS Program</title>
+  </bookmark>
+  <bookmark href="https://www.hyphanet.org/" id="164">
+    <title>Hyphanet</title>
+  </bookmark>
+  <bookmark href="https://syncthing.net/" id="165">
+    <title>Syncthing</title>
+  </bookmark>
+  <bookmark href="https://coderscat.com/" id="166">
+    <title>Coder&apos;s Cat</title>
+  </bookmark>
+  <bookmark href="http://www.xaraxtreme.org/" id="167">
+    <title>Home - Xara Xtreme</title>
+  </bookmark>
+  <bookmark href="https://www.hyphanet.org/" id="168">
+    <title>Hyphanet</title>
+  </bookmark>
+  <bookmark href="https://www.slowernews.com/" id="169">
+    <title>Slower News</title>
+  </bookmark>
+  <bookmark href="https://www.lockss.org/" id="170">
+    <title>LOCKSS Program</title>
+  </bookmark>
+  <bookmark href="https://coderscat.com/" id="171">
+    <title>Coder&apos;s Cat</title>
+  </bookmark>
+  <bookmark href="https://syncthing.net/" id="172">
+    <title>Syncthing</title>
+  </bookmark>
+  <bookmark href="http://www.xaraxtreme.org/" id="173">
+    <title>Home - Xara Xtreme</title>
+  </bookmark>
+  <bookmark href="https://www.govdeals.com/" id="174">
+    <title>Government Surplus Auctions | GovDeals</title>
+  </bookmark>
+  <bookmark href="https://apps.disroot.org/search" id="175">
+    <title>Disroot SearX</title>
+  </bookmark>
+  <bookmark href="https://github.com/AugmentedWeb/UserGUI" id="176">
+    <title>AugmentedWeb/UserGUI: A Graphical user interface for userscripts</title>
+  </bookmark>
+  <bookmark href="https://overflow.adminforge.de/exchange/superuser.com/questions/156207/untar-ungz-gz-tar-how-do-you-remember-all-the-useful-options" id="177">
+    <title>Untar, ungz, gz, tar - how do you remember all the useful options? | AnonymousOverflow</title>
+  </bookmark>
+  <bookmark href="https://github.com/Saltssaumure/pios-discord-theme" id="178">
+    <title>Saltssaumure/pios-discord-theme: A SUPERHOT piOS inspired Discord theme.</title>
   </bookmark>
 </folder>
 </xbel>
