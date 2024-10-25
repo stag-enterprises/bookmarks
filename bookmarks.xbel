@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :178: for Floccus bookmark sync browser extension -->
+<!--- highestId :180: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>dev</title>
@@ -520,6 +520,12 @@
   </bookmark>
   <bookmark href="https://github.com/Saltssaumure/pios-discord-theme" id="178">
     <title>Saltssaumure/pios-discord-theme: A SUPERHOT piOS inspired Discord theme.</title>
+  </bookmark>
+  <bookmark href="https://reddit.adminforge.de/r/github/comments/15pvnj3/ssh_into_codespace_without_github_cli/" id="179">
+    <title>SSH into Codespace without GitHub CLI? - r/github</title>
+  </bookmark>
+  <bookmark href="https://discohook.app/?data=eyJ2ZXJzaW9uIjoiZDIiLCJtZXNzYWdlcyI6W3siX2lkIjoiNDN2UjQ1TnB0ZiIsImRhdGEiOnsiYXV0aG9yIjp7fSwiZW1iZWRzIjpbeyJ0aXRsZSI6Im5hbWVzcGFjZS9zY29wZSIsImRlc2NyaXB0aW9uIjoiVmFyaWFibGUgWCBpcyBub3QgYXNzaWduIiwidGltZXN0YW1wIjoiMjAyNC0xMC0wOVQxNzoxMjoxMi42OTZaIiwiY29sb3IiOjE0NDk1MzAwLCJmb290ZXIiOnsidGV4dCI6IjVERUY2In0sImF1dGhvciI6eyJuYW1lIjoiRVJST1IiLCJpY29uX3VybCI6Imh0dHBzOi8vY2RuLmpzZGVsaXZyLm5ldC9naC9qZGVja2VkL3R3ZW1vamlAMTUuMC4zL2Fzc2V0cy9zdmcvMjc0Yy5zdmcifSwiZmllbGRzIjpbeyJuYW1lIjoiVHlwZUVycm9yIiwidmFsdWUiOiJWYXJpYWJsZSBgWGAgaXMgbm90IGFzc2lnbmFibGUgdG8gYFNraWJpZGlgIiwiaW5saW5lIjpmYWxzZX0seyJuYW1lIjoiVmFyaWFibGVzIiwidmFsdWUiOiJgWGAsIGBTa2liaWRpYCIsImlubGluZSI6dHJ1ZX0seyJuYW1lIjoiaXNUeXBlRXJyb3IiLCJ2YWx1ZSI6IlRydWUiLCJpbmxpbmUiOnRydWV9XX1dfX1dfQ" id="180">
+    <title>Discohook</title>
   </bookmark>
 </folder>
 </xbel>
