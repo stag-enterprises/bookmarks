@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :180: for Floccus bookmark sync browser extension -->
+<!--- highestId :186: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>dev</title>
@@ -526,6 +526,24 @@
   </bookmark>
   <bookmark href="https://discohook.app/?data=eyJ2ZXJzaW9uIjoiZDIiLCJtZXNzYWdlcyI6W3siX2lkIjoiNDN2UjQ1TnB0ZiIsImRhdGEiOnsiYXV0aG9yIjp7fSwiZW1iZWRzIjpbeyJ0aXRsZSI6Im5hbWVzcGFjZS9zY29wZSIsImRlc2NyaXB0aW9uIjoiVmFyaWFibGUgWCBpcyBub3QgYXNzaWduIiwidGltZXN0YW1wIjoiMjAyNC0xMC0wOVQxNzoxMjoxMi42OTZaIiwiY29sb3IiOjE0NDk1MzAwLCJmb290ZXIiOnsidGV4dCI6IjVERUY2In0sImF1dGhvciI6eyJuYW1lIjoiRVJST1IiLCJpY29uX3VybCI6Imh0dHBzOi8vY2RuLmpzZGVsaXZyLm5ldC9naC9qZGVja2VkL3R3ZW1vamlAMTUuMC4zL2Fzc2V0cy9zdmcvMjc0Yy5zdmcifSwiZmllbGRzIjpbeyJuYW1lIjoiVHlwZUVycm9yIiwidmFsdWUiOiJWYXJpYWJsZSBgWGAgaXMgbm90IGFzc2lnbmFibGUgdG8gYFNraWJpZGlgIiwiaW5saW5lIjpmYWxzZX0seyJuYW1lIjoiVmFyaWFibGVzIiwidmFsdWUiOiJgWGAsIGBTa2liaWRpYCIsImlubGluZSI6dHJ1ZX0seyJuYW1lIjoiaXNUeXBlRXJyb3IiLCJ2YWx1ZSI6IlRydWUiLCJpbmxpbmUiOnRydWV9XX1dfX1dfQ" id="180">
     <title>Discohook</title>
+  </bookmark>
+  <bookmark href="https://www.yarrlist.com/" id="181">
+    <title>YarrList – Ahoy, Mateys!</title>
+  </bookmark>
+  <bookmark href="https://sizzy.app/" id="182">
+    <title>Sizzy — The browser for web developers</title>
+  </bookmark>
+  <bookmark href="https://responsively.app/" id="183">
+    <title>Responsively App - A web developer&apos;s browser</title>
+  </bookmark>
+  <bookmark href="https://cyberzhg.github.io/2048/" id="184">
+    <title>2147483648</title>
+  </bookmark>
+  <bookmark href="https://zellij.dev/" id="185">
+    <title>Zellij</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/@iballdesigningdeveloper/videos" id="186">
+    <title>Iballdesigningdeveloper - YouTube</title>
   </bookmark>
 </folder>
 </xbel>
