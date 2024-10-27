@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :186: for Floccus bookmark sync browser extension -->
+<!--- highestId :192: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>dev</title>
@@ -509,9 +509,6 @@
   <bookmark href="https://www.govdeals.com/" id="174">
     <title>Government Surplus Auctions | GovDeals</title>
   </bookmark>
-  <bookmark href="https://apps.disroot.org/search" id="175">
-    <title>Disroot SearX</title>
-  </bookmark>
   <bookmark href="https://github.com/AugmentedWeb/UserGUI" id="176">
     <title>AugmentedWeb/UserGUI: A Graphical user interface for userscripts</title>
   </bookmark>
@@ -544,6 +541,24 @@
   </bookmark>
   <bookmark href="https://www.youtube.com/@iballdesigningdeveloper/videos" id="186">
     <title>Iballdesigningdeveloper - YouTube</title>
+  </bookmark>
+  <bookmark href="https://github.com/kdl-org/kdl/blob/main/README.md" id="187">
+    <title>kdl/README.md at main · kdl-org/kdl</title>
+  </bookmark>
+  <bookmark href="https://hexcodle.com/" id="188">
+    <title>Hexcodle - The Daily Hexcode Guessing Game!</title>
+  </bookmark>
+  <bookmark href="https://bearblog.dev/" id="189">
+    <title>Bear Blog</title>
+  </bookmark>
+  <bookmark href="https://mataroa.blog/" id="190">
+    <title>Mataroa — Blogging platform for minimalists</title>
+  </bookmark>
+  <bookmark href="https://git.sr.ht/~delthas/senpai/" id="191">
+    <title>~delthas/senpai - Your everyday IRC student - sourcehut git</title>
+  </bookmark>
+  <bookmark href="https://github.com/charmbracelet/pop" id="192">
+    <title>charmbracelet/pop: Send emails from your terminal 📬</title>
   </bookmark>
 </folder>
 </xbel>
