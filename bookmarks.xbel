@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :193: for Floccus bookmark sync browser extension -->
+<!--- highestId :194: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>dev</title>
@@ -562,6 +562,9 @@
   </bookmark>
   <bookmark href="https://github.com/ksimka/go-is-not-good" id="193">
     <title>ksimka/go-is-not-good: A curated list of articles complaining that go (golang) isn&apos;t good enough</title>
+  </bookmark>
+  <bookmark href="https://kaotic.com/" id="194">
+    <title>Kaotic - A Live Leak of Reality</title>
   </bookmark>
 </folder>
 </xbel>
