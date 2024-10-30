@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :194: for Floccus bookmark sync browser extension -->
+<!--- highestId :198: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>dev</title>
@@ -565,6 +565,18 @@
   </bookmark>
   <bookmark href="https://kaotic.com/" id="194">
     <title>Kaotic - A Live Leak of Reality</title>
+  </bookmark>
+  <bookmark href="https://protobuf-decoder.netlify.app/" id="195">
+    <title>Protobuf Decoder</title>
+  </bookmark>
+  <bookmark href="https://github.com/get-got/discord-downloader-go" id="196">
+    <title>Settings · get-got/discord-downloader-go Wiki</title>
+  </bookmark>
+  <bookmark href="https://github.com/ShufflePerson/Discord_CDN" id="197">
+    <title>ShufflePerson/Discord_CDN: Bypasses the new Discord Expiry time on download links.</title>
+  </bookmark>
+  <bookmark href="https://about.fb.com/wp-content/uploads/2016/05/rss-urls-1.pdf" id="198">
+    <title>rss-urls-1.pdf</title>
   </bookmark>
 </folder>
 </xbel>
