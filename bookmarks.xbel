@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :205: for Floccus bookmark sync browser extension -->
+<!--- highestId :206: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>dev</title>
@@ -598,6 +598,9 @@
   </bookmark>
   <bookmark href="https://github.com/evanwashere/mitata" id="205">
     <title>evanwashere/mitata: benchmark tooling that loves you ❤️</title>
+  </bookmark>
+  <bookmark href="https://www.val.town/" id="206">
+    <title>Val Town</title>
   </bookmark>
 </folder>
 </xbel>
