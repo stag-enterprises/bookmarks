@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :206: for Floccus bookmark sync browser extension -->
+<!--- highestId :209: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>dev</title>
@@ -601,6 +601,15 @@
   </bookmark>
   <bookmark href="https://www.val.town/" id="206">
     <title>Val Town</title>
+  </bookmark>
+  <bookmark href="https://github.com/jart/cosmopolitan" id="207">
+    <title>GitHub - jart/cosmopolitan: build-once run-anywhere c library</title>
+  </bookmark>
+  <bookmark href="https://trojansource.codes/" id="208">
+    <title>Trojan Source Attacks</title>
+  </bookmark>
+  <bookmark href="https://ludic.mataroa.blog/" id="209">
+    <title>Ludicity</title>
   </bookmark>
 </folder>
 </xbel>
