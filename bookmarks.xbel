@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :209: for Floccus bookmark sync browser extension -->
+<!--- highestId :213: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>dev</title>
@@ -30,6 +30,12 @@
     <title>design</title>
     <bookmark href="https://penpot.app/" id="25">
       <title>penpot ~ ui design with collaboration</title>
+    </bookmark>
+  </folder>
+  <folder id="210">
+    <title>manifesto</title>
+    <bookmark href="https://github.com/aaronjensen/software-development/blob/master/commit-messages.md" id="213">
+      <title>software-development/commit-messages.md at master · aaronjensen/software-development</title>
     </bookmark>
   </folder>
 </folder>
@@ -590,9 +596,6 @@
   <bookmark href="https://dnsblacklist.org/" id="202">
     <title>Website Categorify - Lookup the category of a domain name and if it has any adult content, gaming, gambling and other content.</title>
   </bookmark>
-  <bookmark href="https://github.com/aaronjensen/software-development/blob/master/commit-messages.md" id="203">
-    <title>software-development/commit-messages.md at master · aaronjensen/software-development</title>
-  </bookmark>
   <bookmark href="https://www.aha-music.com/" id="204">
     <title>AHA Music - Song Finder for Browser | What song is this?</title>
   </bookmark>
@@ -610,6 +613,12 @@
   </bookmark>
   <bookmark href="https://ludic.mataroa.blog/" id="209">
     <title>Ludicity</title>
+  </bookmark>
+  <bookmark href="https://forum.johnnydecimal.com/t/22-00-0055-thoughts-on-tags/1493" id="211">
+    <title>22.00.0055: Thoughts on tags - 22 Blog - Johnny.Decimal</title>
+  </bookmark>
+  <bookmark href="https://github.com/TagStudioDev/TagStudio" id="212">
+    <title>GitHub - TagStudioDev/TagStudio: A User-Focused Photo &amp; File Management System</title>
   </bookmark>
 </folder>
 </xbel>
