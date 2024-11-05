@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :230: for Floccus bookmark sync browser extension -->
+<!--- highestId :231: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>dev</title>
@@ -39,7 +39,7 @@
     </bookmark>
   </folder>
   <folder id="214">
-    <title>favycon ~ favicon generator</title>
+    <title>web</title>
     <bookmark href="https://www.jsdocs.io/" id="215">
       <title>jsDocs ~ hosted javascript documentation</title>
     </bookmark>
@@ -50,7 +50,7 @@
       <title>lndev/ui ~ component library</title>
     </bookmark>
     <bookmark href="https://favycon.vercel.app/" id="230">
-      <title>Favycon - A favicon generator tool</title>
+      <title>favycon ~ favicon generator</title>
     </bookmark>
   </folder>
 </folder>
@@ -107,9 +107,6 @@
   <bookmark href="https://hypermedia.systems/" id="36">
     <title>Hypermedia Systems</title>
   </bookmark>
-  <bookmark href="https://amitermed.com/" id="39">
-    <title>Am I Termed</title>
-  </bookmark>
   <bookmark href="https://www.convex.dev/" id="40">
     <title>Convex | The fullstack TypeScript development platform</title>
   </bookmark>
@@ -118,30 +115,6 @@
   </bookmark>
   <bookmark href="https://bible.malcore.io/readme/the-beginning/introduction-to-c" id="42">
     <title>Introduction to C | Malcore Malware Bible</title>
-  </bookmark>
-  <bookmark href="https://github.com/ExtraFrisky/Byebye-Bby" id="43">
-    <title>ExtraFrisky/Byebye-Bby: Oh, it was fun.</title>
-  </bookmark>
-  <bookmark href="https://cryptozombies.io/" id="44">
-    <title>#1 Solidity Tutorial &amp; Ethereum Blockchain Programming Course | CryptoZombies</title>
-  </bookmark>
-  <bookmark href="https://mystery.knightlab.com/" id="45">
-    <title>The SQL Murder Mystery</title>
-  </bookmark>
-  <bookmark href="https://warriorjs.com/" id="46">
-    <title>WarriorJS</title>
-  </bookmark>
-  <bookmark href="https://www.codingame.com/start/" id="47">
-    <title>Coding Games and Programming Challenges to Code Better</title>
-  </bookmark>
-  <bookmark href="https://www.youtube.com/watch?v=XZmsLKiWWRQ" id="48">
-    <title>Discord’s Discovery Feature is perfectly balanced... - YouTube</title>
-  </bookmark>
-  <bookmark href="https://www.youtube.com/watch?v=QvZ2tLQE2Gg" id="49">
-    <title>youtube.com/watch?v=QvZ2tLQE2Gg</title>
-  </bookmark>
-  <bookmark href="https://www.youtube.com/watch?v=q4rL_Lnt6kA" id="50">
-    <title>Microsoft&apos;s presenter installs Chrome during presentation because Edge won&apos;t work - YouTube</title>
   </bookmark>
   <bookmark href="https://reddit.adminforge.de/img/fzpfl0d1vq281.png" id="51">
     <title>fzpfl0d1vq281.png (1718×1134)</title>
@@ -609,6 +582,9 @@
     <title>random</title>
     <bookmark href="https://saintmarrow.github.io/nonbiblical-vocabulary/" id="225">
       <title>nonbiblical vocabulary ~ what words are in the bible</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=q4rL_Lnt6kA" id="231">
+      <title>Microsoft&apos;s presenter installs Chrome during presentation because Edge won&apos;t work - YouTube</title>
     </bookmark>
   </folder>
   <bookmark href="https://vx-underground.org/" id="228">
