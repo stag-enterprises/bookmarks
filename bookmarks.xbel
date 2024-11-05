@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :242: for Floccus bookmark sync browser extension -->
+<!--- highestId :243: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>dev</title>
@@ -109,6 +109,9 @@
   </folder>
   <folder id="242">
     <title>rec</title>
+    <bookmark href="https://www.decisionproblem.com/paperclips/index2.html" id="243">
+      <title>universal paperclips ~ paperclip game</title>
+    </bookmark>
   </folder>
 </folder>
 <folder id="1">
@@ -137,18 +140,6 @@
   <bookmark href="https://capnproto.org/" id="41">
     <title>Cap&apos;n Proto: Introduction</title>
   </bookmark>
-  <bookmark href="https://github.com/GooseMod/OpenAsar" id="53">
-    <title>GooseMod/OpenAsar: Open-source alternative of Discord desktop&apos;s app.asar</title>
-  </bookmark>
-  <bookmark href="https://archiveofourown.org/" id="61">
-    <title>Home | Archive of Our Own</title>
-  </bookmark>
-  <bookmark href="https://store.steampowered.com/app/212680/FTL_Faster_Than_Light/" id="70">
-    <title>FTL: Faster Than Light on Steam</title>
-  </bookmark>
-  <bookmark href="https://store.steampowered.com/app/270150/RUNNING_WITH_RIFLES/" id="71">
-    <title>RUNNING WITH RIFLES on Steam</title>
-  </bookmark>
   <bookmark href="https://openrct2.io/" id="72">
     <title>Home - OpenRCT2</title>
   </bookmark>
@@ -157,9 +148,6 @@
   </bookmark>
   <bookmark href="https://reddit.adminforge.de/r/gamingsuggestions/comments/17int8q/low_spec_games_that_you_can_play_forever_without/" id="74">
     <title>Low spec games that you can play forever without getting bored. - r/gamingsuggestions</title>
-  </bookmark>
-  <bookmark href="https://store.steampowered.com/app/505460/Foxhole/" id="75">
-    <title>Foxhole on Steam</title>
   </bookmark>
   <bookmark href="https://flashpointarchive.org/" id="77">
     <title>Flashpoint Archive</title>
