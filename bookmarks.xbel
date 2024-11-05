@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :213: for Floccus bookmark sync browser extension -->
+<!--- highestId :214: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>dev</title>
@@ -37,6 +37,9 @@
     <bookmark href="https://github.com/aaronjensen/software-development/blob/master/commit-messages.md" id="213">
       <title>subject-first commit messages</title>
     </bookmark>
+  </folder>
+  <folder id="214">
+    <title>js</title>
   </folder>
 </folder>
 <folder id="3">
@@ -88,9 +91,6 @@
   </bookmark>
   <bookmark href="https://lite-xl.com/" id="10">
     <title>Lite XL</title>
-  </bookmark>
-  <bookmark href="https://www.jsdocs.io/" id="11">
-    <title>jsDocs.io</title>
   </bookmark>
   <bookmark href="https://www.xintra.org/" id="13">
     <title>XINTRA</title>
