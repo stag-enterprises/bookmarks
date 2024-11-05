@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :225: for Floccus bookmark sync browser extension -->
+<!--- highestId :229: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>dev</title>
@@ -46,6 +46,9 @@
     <bookmark href="https://civet.dev/" id="223">
       <title>civet ~ a modern js dialect</title>
     </bookmark>
+    <bookmark href="https://ui.lndev.me/components" id="226">
+      <title>All Components | lndev/ui</title>
+    </bookmark>
   </folder>
 </folder>
 <folder id="3">
@@ -77,6 +80,12 @@
       <title>ghosttext ~ edit in the browser with a text editor</title>
     </bookmark>
   </folder>
+  <folder id="227">
+    <title>sec</title>
+    <bookmark href="https://vx-underground.org/" id="229">
+      <title>vx underground ~ malware archives</title>
+    </bookmark>
+  </folder>
 </folder>
 <folder id="1">
   <title>root</title>
@@ -89,14 +98,8 @@
   <bookmark href="https://github.com/UseInterstellar/Interstellar/issues/865" id="8">
     <title>(15) andrew shin please shut up · Issue #865 · UseInterstellar/Interstellar</title>
   </bookmark>
-  <bookmark href="https://vx-underground.org/" id="31">
-    <title>Vx Underground</title>
-  </bookmark>
   <bookmark href="https://mods.factorio.com/mod/RailBow" id="32">
     <title>RailBow - Factorio Mods</title>
-  </bookmark>
-  <bookmark href="https://ui.lndev.me/components" id="33">
-    <title>All Components | lndev/ui</title>
   </bookmark>
   <bookmark href="https://hypermedia.systems/" id="36">
     <title>Hypermedia Systems</title>
@@ -608,5 +611,8 @@
       <title>nonbiblical vocabulary ~ what words are in the bible</title>
     </bookmark>
   </folder>
+  <bookmark href="https://vx-underground.org/" id="228">
+    <title>Vx Underground</title>
+  </bookmark>
 </folder>
 </xbel>
