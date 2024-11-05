@@ -47,7 +47,7 @@
       <title>civet ~ a modern js dialect</title>
     </bookmark>
     <bookmark href="https://ui.lndev.me/components" id="226">
-      <title>All Components | lndev/ui</title>
+      <title>lndev/ui ~ component library</title>
     </bookmark>
   </folder>
 </folder>
@@ -103,9 +103,6 @@
   </bookmark>
   <bookmark href="https://hypermedia.systems/" id="36">
     <title>Hypermedia Systems</title>
-  </bookmark>
-  <bookmark href="https://favycon.vercel.app/" id="37">
-    <title>Favycon - A favicon generator tool</title>
   </bookmark>
   <bookmark href="https://amitermed.com/" id="39">
     <title>Am I Termed</title>
