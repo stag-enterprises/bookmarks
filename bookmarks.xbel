@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :216: for Floccus bookmark sync browser extension -->
+<!--- highestId :222: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>dev</title>
@@ -53,25 +53,25 @@
       <title>chromebrew ~ package manager for chromeos</title>
     </bookmark>
   </folder>
-  <folder id="18">
-    <title>media</title>
-    <bookmark href="https://www.navidrome.org/" id="27">
-      <title>navidrome ~ music streaming</title>
-    </bookmark>
-    <bookmark href="https://input.djr.com/info/" id="28">
-      <title>input ~ font for code</title>
-    </bookmark>
-    <bookmark href="https://shapecatcher.com/" id="29">
-      <title>shapecatcher - recognize unicode from drawing</title>
-    </bookmark>
-    <bookmark href="https://ghosttext.fregante.com/" id="216">
-      <title>👻 GhostText — Use your text editor in the browser</title>
-    </bookmark>
-  </folder>
   <folder id="19">
     <title>net</title>
     <bookmark href="https://github.com/darekkay/static-marks" id="30">
       <title>static marks - bookmarks as a static page</title>
+    </bookmark>
+  </folder>
+  <folder id="217">
+    <title>media</title>
+    <bookmark href="https://www.navidrome.org/" id="219">
+      <title>navidrome ~ music streaming</title>
+    </bookmark>
+    <bookmark href="https://input.djr.com/info/" id="220">
+      <title>input ~ font for code</title>
+    </bookmark>
+    <bookmark href="https://shapecatcher.com/" id="221">
+      <title>shapecatcher - recognize unicode from drawing</title>
+    </bookmark>
+    <bookmark href="https://ghosttext.fregante.com/" id="222">
+      <title>👻 GhostText — Use your text editor in the browser</title>
     </bookmark>
   </folder>
 </folder>
@@ -616,6 +616,9 @@
   </bookmark>
   <bookmark href="https://github.com/TagStudioDev/TagStudio" id="212">
     <title>GitHub - TagStudioDev/TagStudio: A User-Focused Photo &amp; File Management System</title>
+  </bookmark>
+  <bookmark href="https://ghosttext.fregante.com/" id="218">
+    <title>👻 GhostText — Use your text editor in the browser</title>
   </bookmark>
 </folder>
 </xbel>
