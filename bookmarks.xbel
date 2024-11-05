@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :237: for Floccus bookmark sync browser extension -->
+<!--- highestId :240: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>dev</title>
@@ -88,15 +88,6 @@
     <bookmark href="https://ghosttext.fregante.com/" id="222">
       <title>ghosttext ~ edit in the browser with a text editor</title>
     </bookmark>
-    <bookmark href="https://github.com/stonith404/pingvin-share" id="232">
-      <title>pingvin share ~ file sharing</title>
-    </bookmark>
-    <bookmark href="https://kuuichi.xyz/auth/login?url=/dashboard" id="233">
-      <title>anonhost ~ file host</title>
-    </bookmark>
-    <bookmark href="https://github.com/TagStudioDev/TagStudio" id="236">
-      <title>tagstudio ~ tag based file manager</title>
-    </bookmark>
   </folder>
   <folder id="227">
     <title>sec</title>
@@ -106,6 +97,15 @@
   </folder>
   <folder id="237">
     <title>doc</title>
+    <bookmark href="https://github.com/stonith404/pingvin-share" id="238">
+      <title>pingvin share ~ file sharing</title>
+    </bookmark>
+    <bookmark href="https://kuuichi.xyz/auth/login?url=/dashboard" id="239">
+      <title>anonhost ~ file host</title>
+    </bookmark>
+    <bookmark href="https://github.com/TagStudioDev/TagStudio" id="240">
+      <title>tagstudio ~ tag based file manager</title>
+    </bookmark>
   </folder>
 </folder>
 <folder id="1">
