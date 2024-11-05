@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :229: for Floccus bookmark sync browser extension -->
+<!--- highestId :230: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>dev</title>
@@ -39,7 +39,7 @@
     </bookmark>
   </folder>
   <folder id="214">
-    <title>js</title>
+    <title>web</title>
     <bookmark href="https://www.jsdocs.io/" id="215">
       <title>jsDocs ~ hosted javascript documentation</title>
     </bookmark>
@@ -48,6 +48,9 @@
     </bookmark>
     <bookmark href="https://ui.lndev.me/components" id="226">
       <title>lndev/ui ~ component library</title>
+    </bookmark>
+    <bookmark href="https://favycon.vercel.app/" id="230">
+      <title>Favycon - A favicon generator tool</title>
     </bookmark>
   </folder>
 </folder>
