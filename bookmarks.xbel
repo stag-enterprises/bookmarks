@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :215: for Floccus bookmark sync browser extension -->
+<!--- highestId :216: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>dev</title>
@@ -64,6 +64,9 @@
     <bookmark href="https://shapecatcher.com/" id="29">
       <title>shapecatcher - recognize unicode from drawing</title>
     </bookmark>
+    <bookmark href="https://ghosttext.fregante.com/" id="216">
+      <title>👻 GhostText — Use your text editor in the browser</title>
+    </bookmark>
   </folder>
   <folder id="19">
     <title>net</title>
@@ -112,9 +115,6 @@
   </bookmark>
   <bookmark href="https://favycon.vercel.app/" id="37">
     <title>Favycon - A favicon generator tool</title>
-  </bookmark>
-  <bookmark href="https://ghosttext.fregante.com/" id="38">
-    <title>👻 GhostText — Use your text editor in the browser</title>
   </bookmark>
   <bookmark href="https://amitermed.com/" id="39">
     <title>Am I Termed</title>
