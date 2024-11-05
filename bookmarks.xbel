@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :223: for Floccus bookmark sync browser extension -->
+<!--- highestId :224: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>dev</title>
@@ -80,12 +80,6 @@
 </folder>
 <folder id="1">
   <title>root</title>
-  <bookmark href="https://saintmarrow.github.io/nonbiblical-vocabulary/" id="5">
-    <title>Nonbiblical-Vocabulary</title>
-  </bookmark>
-  <bookmark href="https://overflow.adminforge.de/exchange/askubuntu.com/questions/62290/how-do-i-list-installed-software-with-the-installed-size" id="147">
-    <title>How do I list installed software with the installed size? | AnonymousOverflow</title>
-  </bookmark>
   <bookmark href="https://namingschemes.com/Touhou_Characters" id="6">
     <title>Touhou Characters - Naming Schemes</title>
   </bookmark>
@@ -614,5 +608,8 @@
   <bookmark href="https://ghosttext.fregante.com/" id="218">
     <title>👻 GhostText — Use your text editor in the browser</title>
   </bookmark>
+  <folder id="224">
+    <title>random</title>
+  </folder>
 </folder>
 </xbel>
