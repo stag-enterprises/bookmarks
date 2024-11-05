@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :214: for Floccus bookmark sync browser extension -->
+<!--- highestId :215: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>dev</title>
@@ -40,6 +40,9 @@
   </folder>
   <folder id="214">
     <title>js</title>
+    <bookmark href="https://www.jsdocs.io/" id="215">
+      <title>jsDocs ~ hosted javascript documentation</title>
+    </bookmark>
   </folder>
 </folder>
 <folder id="3">
@@ -103,12 +106,6 @@
   </bookmark>
   <bookmark href="https://ui.lndev.me/components" id="33">
     <title>All Components | lndev/ui</title>
-  </bookmark>
-  <bookmark href="https://reddit.adminforge.de/r/NonCredibleDefense" id="34">
-    <title>Reddit&apos;s new home for defense themed shitposts</title>
-  </bookmark>
-  <bookmark href="https://reddit.adminforge.de/r/NonCredibleOffense" id="35">
-    <title>NonCredibleOffense</title>
   </bookmark>
   <bookmark href="https://hypermedia.systems/" id="36">
     <title>Hypermedia Systems</title>
