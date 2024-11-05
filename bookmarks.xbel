@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :236: for Floccus bookmark sync browser extension -->
+<!--- highestId :237: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>dev</title>
@@ -95,7 +95,7 @@
       <title>anonhost ~ file host</title>
     </bookmark>
     <bookmark href="https://github.com/TagStudioDev/TagStudio" id="236">
-      <title>GitHub - TagStudioDev/TagStudio: A User-Focused Photo &amp; File Management System</title>
+      <title>tagstudio ~ tag based file manager</title>
     </bookmark>
   </folder>
   <folder id="227">
@@ -103,6 +103,9 @@
     <bookmark href="https://vx-underground.org/" id="229">
       <title>vx underground ~ malware archives</title>
     </bookmark>
+  </folder>
+  <folder id="237">
+    <title>doc</title>
   </folder>
 </folder>
 <folder id="1">
