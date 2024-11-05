@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :235: for Floccus bookmark sync browser extension -->
+<!--- highestId :236: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>dev</title>
@@ -94,6 +94,9 @@
     <bookmark href="https://kuuichi.xyz/auth/login?url=/dashboard" id="233">
       <title>anonhost ~ file host</title>
     </bookmark>
+    <bookmark href="https://github.com/TagStudioDev/TagStudio" id="236">
+      <title>GitHub - TagStudioDev/TagStudio: A User-Focused Photo &amp; File Management System</title>
+    </bookmark>
   </folder>
   <folder id="227">
     <title>sec</title>
@@ -104,6 +107,9 @@
 </folder>
 <folder id="1">
   <title>root</title>
+  <bookmark href="https://ghosttext.fregante.com/" id="218">
+    <title>👻 GhostText — Use your text editor in the browser</title>
+  </bookmark>
   <bookmark href="https://namingschemes.com/Touhou_Characters" id="6">
     <title>Touhou Characters - Naming Schemes</title>
   </bookmark>
@@ -529,12 +535,6 @@
   </bookmark>
   <bookmark href="https://forum.johnnydecimal.com/t/22-00-0055-thoughts-on-tags/1493" id="211">
     <title>22.00.0055: Thoughts on tags - 22 Blog - Johnny.Decimal</title>
-  </bookmark>
-  <bookmark href="https://github.com/TagStudioDev/TagStudio" id="212">
-    <title>GitHub - TagStudioDev/TagStudio: A User-Focused Photo &amp; File Management System</title>
-  </bookmark>
-  <bookmark href="https://ghosttext.fregante.com/" id="218">
-    <title>👻 GhostText — Use your text editor in the browser</title>
   </bookmark>
   <folder id="224">
     <title>random</title>
