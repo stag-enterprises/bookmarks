@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :222: for Floccus bookmark sync browser extension -->
+<!--- highestId :223: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>dev</title>
@@ -42,6 +42,9 @@
     <title>js</title>
     <bookmark href="https://www.jsdocs.io/" id="215">
       <title>jsDocs ~ hosted javascript documentation</title>
+    </bookmark>
+    <bookmark href="https://civet.dev/" id="223">
+      <title>Homepage | Civet</title>
     </bookmark>
   </folder>
 </folder>
@@ -421,9 +424,6 @@
   </bookmark>
   <bookmark href="https://github.com/nh2/internal-contstrained-pki" id="144">
     <title>nh2/internal-contstrained-pki: Safely shareable TLS root CA for .internal networks using Name Constraints</title>
-  </bookmark>
-  <bookmark href="https://civet.dev/" id="145">
-    <title>Homepage | Civet</title>
   </bookmark>
   <bookmark href="https://what3words.com/result.migrants.trip" id="146">
     <title>what3words /// The simplest way to talk about location</title>
