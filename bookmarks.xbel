@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :241: for Floccus bookmark sync browser extension -->
+<!--- highestId :242: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>dev</title>
@@ -107,6 +107,9 @@
       <title>tagstudio ~ tag based file manager</title>
     </bookmark>
   </folder>
+  <folder id="242">
+    <title>rec</title>
+  </folder>
 </folder>
 <folder id="1">
   <title>root</title>
@@ -157,9 +160,6 @@
   </bookmark>
   <bookmark href="https://store.steampowered.com/app/505460/Foxhole/" id="75">
     <title>Foxhole on Steam</title>
-  </bookmark>
-  <bookmark href="https://www.decisionproblem.com/paperclips/index2.html" id="76">
-    <title>decisionproblem.com/paperclips/index2.html</title>
   </bookmark>
   <bookmark href="https://flashpointarchive.org/" id="77">
     <title>Flashpoint Archive</title>
