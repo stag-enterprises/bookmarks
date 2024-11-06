@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :243: for Floccus bookmark sync browser extension -->
+<!--- highestId :246: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>dev</title>
@@ -111,6 +111,9 @@
     <title>rec</title>
     <bookmark href="https://www.decisionproblem.com/paperclips/index2.html" id="243">
       <title>universal paperclips ~ paperclip game</title>
+    </bookmark>
+    <bookmark href="https://webmail.disroot.org/?_task=mail&amp;_action=compose&amp;_id=703056050672a587227531" id="244">
+      <title>Disroot webmail :: Compose</title>
     </bookmark>
   </folder>
 </folder>
@@ -536,5 +539,11 @@
       <title>413 Request Entity Too Large</title>
     </bookmark>
   </folder>
+  <bookmark href="https://stolen.shoes/" id="245">
+    <title>Video Embed Generator</title>
+  </bookmark>
+  <bookmark href="https://github.com/sharkdp/hyperfine" id="246">
+    <title>sharkdp/hyperfine: A command-line benchmarking tool</title>
+  </bookmark>
 </folder>
 </xbel>
