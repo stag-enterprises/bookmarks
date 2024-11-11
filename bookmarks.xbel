@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :246: for Floccus bookmark sync browser extension -->
+<!--- highestId :264: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>dev</title>
@@ -544,6 +544,60 @@
   </bookmark>
   <bookmark href="https://github.com/sharkdp/hyperfine" id="246">
     <title>sharkdp/hyperfine: A command-line benchmarking tool</title>
+  </bookmark>
+  <bookmark href="https://github.com/Abdenasser/neohtop" id="247">
+    <title>Abdenasser/neohtop: 💪🏻 htop on steroids</title>
+  </bookmark>
+  <bookmark href="https://github.com/jesseduffield/lazygit" id="248">
+    <title>jesseduffield/lazygit: simple terminal UI for git commands</title>
+  </bookmark>
+  <bookmark href="https://useplaintext.email/" id="249">
+    <title>Use plain text email</title>
+  </bookmark>
+  <bookmark href="https://useplaintext.email/#recommended-clients" id="250">
+    <title>Use plain text email</title>
+  </bookmark>
+  <bookmark href="https://gekk.info/articles/adhd.html" id="251">
+    <title>ADHD | Gekk</title>
+  </bookmark>
+  <bookmark href="https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html" id="252">
+    <title>Why Procrastinators Procrastinate — Wait But Why</title>
+  </bookmark>
+  <bookmark href="https://crt.sh/" id="253">
+    <title>crt.sh | Certificate Search</title>
+  </bookmark>
+  <bookmark href="https://github.com/MobSF/Mobile-Security-Framework-MobSF" id="254">
+    <title>MobSF/Mobile-Security-Framework-MobSF: Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.</title>
+  </bookmark>
+  <bookmark href="https://www.mankier.com/" id="255">
+    <title>Man Pages | ManKier</title>
+  </bookmark>
+  <bookmark href="https://sst.dev/" id="256">
+    <title>SST</title>
+  </bookmark>
+  <bookmark href="https://trigger.dev/" id="257">
+    <title>Trigger.dev | Open source background jobs with no timeouts.</title>
+  </bookmark>
+  <bookmark href="https://goat.rest/" id="258">
+    <title>a dark forest</title>
+  </bookmark>
+  <bookmark href="https://mothcpu.neocities.org/dect/story" id="259">
+    <title>DREAM&apos;S END COME TRUE</title>
+  </bookmark>
+  <bookmark href="https://corru.observer/" id="260">
+    <title>corru.observer</title>
+  </bookmark>
+  <bookmark href="https://moddingtree.com/" id="261">
+    <title>Home | Profectus</title>
+  </bookmark>
+  <bookmark href="https://www.dictionaryofobscuresorrows.com/" id="262">
+    <title>The Dictionary of Obscure Sorrows</title>
+  </bookmark>
+  <bookmark href="https://en.wikipedia.org/wiki/The_Game_(mind_game)" id="263">
+    <title>The Game (mind game) - Wikipedia</title>
+  </bookmark>
+  <bookmark href="https://highseas.hackclub.com/" id="264">
+    <title>High Seas | Hack Club</title>
   </bookmark>
 </folder>
 </xbel>
