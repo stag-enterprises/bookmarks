@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :264: for Floccus bookmark sync browser extension -->
+<!--- highestId :286: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>dev</title>
@@ -598,6 +598,72 @@
   </bookmark>
   <bookmark href="https://highseas.hackclub.com/" id="264">
     <title>High Seas | Hack Club</title>
+  </bookmark>
+  <bookmark href="https://fileditch.com/" id="265">
+    <title>Fileditch</title>
+  </bookmark>
+  <bookmark href="https://vc.gg/film/cockcon-2020/" id="266">
+    <title>Film: COCKCON 2020 (2019) (2022)</title>
+  </bookmark>
+  <bookmark href="https://thanks.dev/home" id="267">
+    <title>thanks.dev – open source funding platform</title>
+  </bookmark>
+  <bookmark href="https://dingboard.com/" id="268">
+    <title>dingboard</title>
+  </bookmark>
+  <bookmark href="https://rarepopsicles.com/" id="269">
+    <title>Rare Popsicles Gallery</title>
+  </bookmark>
+  <bookmark href="https://github.com/astral-sh/uv" id="270">
+    <title>astral-sh/uv: An extremely fast Python package and project manager, written in Rust.</title>
+  </bookmark>
+  <bookmark href="https://hex-rays.com/ida-pro" id="271">
+    <title>ida-pro</title>
+  </bookmark>
+  <bookmark href="https://github.com/hackclub/some-assembly-required" id="272">
+    <title>hackclub/some-assembly-required: 📖 An approachable introduction to Assembly.</title>
+  </bookmark>
+  <bookmark href="https://vert.sh/about" id="273">
+    <title>About VERT</title>
+  </bookmark>
+  <bookmark href="https://usevia.app/" id="274">
+    <title>VIA</title>
+  </bookmark>
+  <bookmark href="https://tools.simonwillison.net/mdn-timelines" id="275">
+    <title>tools.simonwillison.net/mdn-timelines</title>
+  </bookmark>
+  <bookmark href="https://bandysc.github.io/AvaloniaVisualBasic6/" id="276">
+    <title>AvaloniaVisualBasic.Browser</title>
+  </bookmark>
+  <bookmark href="https://mergiraf.org/" id="277">
+    <title>Introduction - Mergiraf</title>
+  </bookmark>
+  <bookmark href="https://github.com/tummychow/git-absorb" id="278">
+    <title>tummychow/git-absorb: git commit --fixup, but automatic</title>
+  </bookmark>
+  <bookmark href="http://astronaut.io/" id="279">
+    <title>Astronaut</title>
+  </bookmark>
+  <bookmark href="https://github.com/berthubert/googerteller" id="280">
+    <title>berthubert/googerteller: audible feedback on just how much your browsing feeds into google</title>
+  </bookmark>
+  <bookmark href="https://jdan.github.io/98.css/" id="281">
+    <title>98.css - A design system for building faithful recreations of old UIs</title>
+  </bookmark>
+  <bookmark href="https://maxsiedentopf.com/passport-photos/" id="282">
+    <title>MAX SIEDENTOPF — Passport Photos</title>
+  </bookmark>
+  <bookmark href="https://vert.sh/" id="283">
+    <title>VERT.sh — Free, fast, and awesome file convert</title>
+  </bookmark>
+  <bookmark href="https://perchance.org/character-headcanon-generator-by-outergirlsound" id="284">
+    <title>Character Headcanon Generator</title>
+  </bookmark>
+  <bookmark href="https://alfred.camera/" id="285">
+    <title>AlfredCamera | Simple Security at Your Fingertips</title>
+  </bookmark>
+  <bookmark href="https://int10h.org/oldschool-pc-fonts/fontlist/?3" id="286">
+    <title>The Ultimate Oldschool PC Font Pack: Font Index</title>
   </bookmark>
 </folder>
 </xbel>
