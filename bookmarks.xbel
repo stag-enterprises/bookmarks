@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :286: for Floccus bookmark sync browser extension -->
+<!--- highestId :292: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>dev</title>
@@ -664,6 +664,24 @@
   </bookmark>
   <bookmark href="https://int10h.org/oldschool-pc-fonts/fontlist/?3" id="286">
     <title>The Ultimate Oldschool PC Font Pack: Font Index</title>
+  </bookmark>
+  <bookmark href="https://www.tarsnap.com/index.html" id="287">
+    <title>Tarsnap - Online backups for the truly paranoid</title>
+  </bookmark>
+  <bookmark href="https://jedisct1.github.io/minisign/" id="288">
+    <title>Minisign by Frank Denis</title>
+  </bookmark>
+  <bookmark href="https://github.com/FiloSottile/age" id="289">
+    <title>FiloSottile/age: A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.</title>
+  </bookmark>
+  <bookmark href="https://github.com/magic-wormhole/magic-wormhole" id="290">
+    <title>magic-wormhole/magic-wormhole: get things from one computer to another, safely</title>
+  </bookmark>
+  <bookmark href="https://dmarcian.com/spf-syntax-table/" id="291">
+    <title>SPF Record Syntax - dmarcian</title>
+  </bookmark>
+  <bookmark href="https://huskapi.nin0.dev/" id="292">
+    <title>huskapi.nin0.dev</title>
   </bookmark>
 </folder>
 </xbel>
