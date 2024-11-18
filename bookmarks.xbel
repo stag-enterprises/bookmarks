@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :292: for Floccus bookmark sync browser extension -->
+<!--- highestId :296: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>dev</title>
@@ -682,6 +682,18 @@
   </bookmark>
   <bookmark href="https://huskapi.nin0.dev/" id="292">
     <title>huskapi.nin0.dev</title>
+  </bookmark>
+  <bookmark href="https://rebane2001.com/weirdm/" id="293">
+    <title>WeirdM - Resizing WebM maker</title>
+  </bookmark>
+  <bookmark href="https://degooglisons-internet.org/en/" id="294">
+    <title>De-google-ify Internet - Main Page</title>
+  </bookmark>
+  <bookmark href="https://lanparty.house/" id="295">
+    <title>LAN Party House</title>
+  </bookmark>
+  <bookmark href="https://nightsky.hctr.dev/" id="296">
+    <title>Nightsky</title>
   </bookmark>
 </folder>
 </xbel>
