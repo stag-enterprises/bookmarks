@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :296: for Floccus bookmark sync browser extension -->
+<!--- highestId :299: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>dev</title>
@@ -694,6 +694,15 @@
   </bookmark>
   <bookmark href="https://nightsky.hctr.dev/" id="296">
     <title>Nightsky</title>
+  </bookmark>
+  <bookmark href="https://www.jai.vin/reply-placer-3000" id="297">
+    <title>jaivin&apos;s shop</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=wumluVRmxyA" id="298">
+    <title>I Can&apos;t BELIEVE They Let Me in Here! - YouTube</title>
+  </bookmark>
+  <bookmark href="https://lure.sh/" id="299">
+    <title>Home | LURE Web</title>
   </bookmark>
 </folder>
 </xbel>
