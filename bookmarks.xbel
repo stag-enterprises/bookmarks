@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :299: for Floccus bookmark sync browser extension -->
+<!--- highestId :304: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>dev</title>
@@ -703,6 +703,21 @@
   </bookmark>
   <bookmark href="https://lure.sh/" id="299">
     <title>Home | LURE Web</title>
+  </bookmark>
+  <bookmark href="https://brid.gy/" id="300">
+    <title>Bridgy</title>
+  </bookmark>
+  <bookmark href="https://github.com/XTLS/Xray-core" id="301">
+    <title>XTLS/Xray-core: Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.</title>
+  </bookmark>
+  <bookmark href="https://www.idrlabs.com/" id="302">
+    <title>IDRlabs</title>
+  </bookmark>
+  <bookmark href="https://store.steampowered.com/app/1510/Uplink/" id="303">
+    <title>Uplink on Steam</title>
+  </bookmark>
+  <bookmark href="https://near.blog/supplements/" id="304">
+    <title>Supplements | near.blog</title>
   </bookmark>
 </folder>
 </xbel>
