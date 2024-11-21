@@ -1,122 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :307: for Floccus bookmark sync browser extension -->
+<!--- highestId :352: for Floccus bookmark sync browser extension -->
 
-<folder id="2">
-  <title>dev</title>
-  <folder id="14">
-    <title>terminal</title>
-    <bookmark href="https://github.com/zyedidia/eget" id="20">
-      <title>eget ~ gitub release binary downloader</title>
-    </bookmark>
-    <bookmark href="https://bash-prompt-generator.org/" id="21">
-      <title>bash prompt generator</title>
-    </bookmark>
-  </folder>
-  <folder id="15">
-    <title>api</title>
-    <bookmark href="https://blobcdn.com/" id="22">
-      <title>blobcdn ~ blob shape svg generator</title>
-    </bookmark>
-    <bookmark href="https://statically.io/" id="23">
-      <title>statically ~ cdn for github, gitlab, bitbucket, wordpress, and images</title>
-    </bookmark>
-    <bookmark href="https://favicone.com/" id="24">
-      <title>favicone ~ favicon grabber</title>
-    </bookmark>
-  </folder>
-  <folder id="16">
-    <title>design</title>
-    <bookmark href="https://penpot.app/" id="25">
-      <title>penpot ~ ui design with collaboration</title>
-    </bookmark>
-  </folder>
-  <folder id="210">
-    <title>concept</title>
-    <bookmark href="https://github.com/aaronjensen/software-development/blob/master/commit-messages.md" id="213">
-      <title>subject-first commit messages</title>
-    </bookmark>
-  </folder>
-  <folder id="214">
-    <title>web</title>
-    <bookmark href="https://www.jsdocs.io/" id="215">
-      <title>jsDocs ~ hosted javascript documentation</title>
-    </bookmark>
-    <bookmark href="https://civet.dev/" id="223">
-      <title>civet ~ a modern js dialect</title>
-    </bookmark>
-    <bookmark href="https://ui.lndev.me/components" id="226">
-      <title>lndev/ui ~ component library</title>
-    </bookmark>
-    <bookmark href="https://favycon.vercel.app/" id="230">
-      <title>favycon ~ favicon generator</title>
-    </bookmark>
-  </folder>
-  <folder id="234">
-    <title>sys</title>
-    <bookmark href="https://bible.malcore.io/readme/the-beginning/introduction-to-c" id="235">
-      <title>introduction to c</title>
-    </bookmark>
-  </folder>
-</folder>
-<folder id="3">
-  <title>ware</title>
-  <folder id="17">
-    <title>chromeOS</title>
-    <bookmark href="https://github.com/chromebrew/chromebrew" id="26">
-      <title>chromebrew ~ package manager for chromeos</title>
-    </bookmark>
-  </folder>
-  <folder id="19">
-    <title>net</title>
-    <bookmark href="https://github.com/darekkay/static-marks" id="30">
-      <title>static marks - bookmarks as a static page</title>
-    </bookmark>
-  </folder>
-  <folder id="217">
-    <title>media</title>
-    <bookmark href="https://www.navidrome.org/" id="219">
-      <title>navidrome ~ music streaming</title>
-    </bookmark>
-    <bookmark href="https://input.djr.com/info/" id="220">
-      <title>input ~ font for code</title>
-    </bookmark>
-    <bookmark href="https://shapecatcher.com/" id="221">
-      <title>shapecatcher - recognize unicode from drawing</title>
-    </bookmark>
-    <bookmark href="https://ghosttext.fregante.com/" id="222">
-      <title>ghosttext ~ edit in the browser with a text editor</title>
-    </bookmark>
-  </folder>
-  <folder id="227">
-    <title>sec</title>
-    <bookmark href="https://vx-underground.org/" id="229">
-      <title>vx underground ~ malware archives</title>
-    </bookmark>
-  </folder>
-  <folder id="237">
-    <title>doc</title>
-    <bookmark href="https://github.com/stonith404/pingvin-share" id="238">
-      <title>pingvin share ~ file sharing</title>
-    </bookmark>
-    <bookmark href="https://kuuichi.xyz/auth/login?url=/dashboard" id="239">
-      <title>anonhost ~ file host</title>
-    </bookmark>
-    <bookmark href="https://github.com/TagStudioDev/TagStudio" id="240">
-      <title>tagstudio ~ tag based file manager</title>
-    </bookmark>
-  </folder>
-  <folder id="242">
-    <title>rec</title>
-    <bookmark href="https://www.decisionproblem.com/paperclips/index2.html" id="243">
-      <title>universal paperclips ~ paperclip game</title>
-    </bookmark>
-    <bookmark href="https://webmail.disroot.org/?_task=mail&amp;_action=compose&amp;_id=703056050672a587227531" id="244">
-      <title>Disroot webmail :: Compose</title>
-    </bookmark>
-  </folder>
-</folder>
 <folder id="1">
   <title>root</title>
   <bookmark href="https://ghosttext.fregante.com/" id="218">
@@ -527,18 +413,6 @@
   <bookmark href="https://forum.johnnydecimal.com/t/22-00-0055-thoughts-on-tags/1493" id="211">
     <title>22.00.0055: Thoughts on tags - 22 Blog - Johnny.Decimal</title>
   </bookmark>
-  <folder id="224">
-    <title>random</title>
-    <bookmark href="https://saintmarrow.github.io/nonbiblical-vocabulary/" id="225">
-      <title>nonbiblical vocabulary ~ what words are in the bible</title>
-    </bookmark>
-    <bookmark href="https://www.youtube.com/watch?v=q4rL_Lnt6kA" id="231">
-      <title>[youtube] Microsoft&apos;s presenter installs Chrome during presentation because Edge won&apos;t work</title>
-    </bookmark>
-    <bookmark href="https://yourmom.zip/" id="241">
-      <title>413 Request Entity Too Large</title>
-    </bookmark>
-  </folder>
   <bookmark href="https://stolen.shoes/" id="245">
     <title>Video Embed Generator</title>
   </bookmark>
@@ -728,5 +602,140 @@
   <bookmark href="https://github.com/MauriceNino/dashdot" id="307">
     <title>MauriceNino/dashdot: A simple, modern server dashboard, primarily used by smaller private servers</title>
   </bookmark>
+</folder>
+<bookmark href="https://pdsls.dev/" id="308">
+  <title>PDSls</title>
+</bookmark>
+<bookmark href="https://store.steampowered.com/app/244630/NEOTOKYO/" id="309">
+  <title>NEOTOKYO on Steam</title>
+</bookmark>
+<bookmark href="https://weborigami.org/" id="310">
+  <title>Web Origami</title>
+</bookmark>
+<bookmark href="https://www.vaultofthewace.xyz/" id="311">
+  <title>VaultOfTheWace</title>
+</bookmark>
+<bookmark href="https://equ-ed.com/" id="312">
+  <title>EquEd | Home</title>
+</bookmark>
+<bookmark href="https://lazymath.github.io/" id="313">
+  <title>LazyMath</title>
+</bookmark>
+<bookmark href="https://square-academy.notion.site/Square-Academy-Resources-af2642416181474ebbc9a32f7cfbc567" id="314">
+  <title>Square Academy Resources</title>
+</bookmark>
+<folder id="315">
+  <title>ware</title>
+  <folder id="317">
+    <title>chromeOS</title>
+    <bookmark href="https://github.com/chromebrew/chromebrew" id="329">
+      <title>chromebrew ~ package manager for chromeos</title>
+    </bookmark>
+  </folder>
+  <folder id="318">
+    <title>net</title>
+    <bookmark href="https://github.com/darekkay/static-marks" id="330">
+      <title>static marks - bookmarks as a static page</title>
+    </bookmark>
+  </folder>
+  <folder id="319">
+    <title>media</title>
+    <bookmark href="https://www.navidrome.org/" id="331">
+      <title>navidrome ~ music streaming</title>
+    </bookmark>
+    <bookmark href="https://input.djr.com/info/" id="332">
+      <title>input ~ font for code</title>
+    </bookmark>
+    <bookmark href="https://shapecatcher.com/" id="333">
+      <title>shapecatcher - recognize unicode from drawing</title>
+    </bookmark>
+    <bookmark href="https://ghosttext.fregante.com/" id="334">
+      <title>ghosttext ~ edit in the browser with a text editor</title>
+    </bookmark>
+  </folder>
+  <folder id="320">
+    <title>sec</title>
+    <bookmark href="https://vx-underground.org/" id="335">
+      <title>vx underground ~ malware archives</title>
+    </bookmark>
+  </folder>
+  <folder id="321">
+    <title>doc</title>
+    <bookmark href="https://github.com/stonith404/pingvin-share" id="336">
+      <title>pingvin share ~ file sharing</title>
+    </bookmark>
+    <bookmark href="https://kuuichi.xyz/auth/login?url=/dashboard" id="337">
+      <title>anonhost ~ file host</title>
+    </bookmark>
+    <bookmark href="https://github.com/TagStudioDev/TagStudio" id="338">
+      <title>tagstudio ~ tag based file manager</title>
+    </bookmark>
+  </folder>
+  <folder id="322">
+    <title>rec</title>
+    <bookmark href="https://www.decisionproblem.com/paperclips/index2.html" id="339">
+      <title>universal paperclips ~ paperclip game</title>
+    </bookmark>
+    <bookmark href="https://webmail.disroot.org/?_task=mail&amp;_action=compose&amp;_id=703056050672a587227531" id="340">
+      <title>Disroot webmail :: Compose</title>
+    </bookmark>
+  </folder>
+</folder>
+<folder id="316">
+  <title>dev</title>
+  <folder id="323">
+    <title>terminal</title>
+    <bookmark href="https://github.com/zyedidia/eget" id="341">
+      <title>eget ~ gitub release binary downloader</title>
+    </bookmark>
+    <bookmark href="https://bash-prompt-generator.org/" id="342">
+      <title>bash prompt generator</title>
+    </bookmark>
+  </folder>
+  <folder id="324">
+    <title>api</title>
+    <bookmark href="https://blobcdn.com/" id="343">
+      <title>blobcdn ~ blob shape svg generator</title>
+    </bookmark>
+    <bookmark href="https://statically.io/" id="344">
+      <title>statically ~ cdn for github, gitlab, bitbucket, wordpress, and images</title>
+    </bookmark>
+    <bookmark href="https://favicone.com/" id="345">
+      <title>favicone ~ favicon grabber</title>
+    </bookmark>
+  </folder>
+  <folder id="325">
+    <title>design</title>
+    <bookmark href="https://penpot.app/" id="346">
+      <title>penpot ~ ui design with collaboration</title>
+    </bookmark>
+  </folder>
+  <folder id="326">
+    <title>concept</title>
+    <bookmark href="https://github.com/aaronjensen/software-development/blob/master/commit-messages.md" id="347">
+      <title>subject-first commit messages</title>
+    </bookmark>
+  </folder>
+  <folder id="327">
+    <title>web</title>
+    <bookmark href="https://www.jsdocs.io/" id="348">
+      <title>jsDocs ~ hosted javascript documentation</title>
+    </bookmark>
+    <bookmark href="https://civet.dev/" id="349">
+      <title>civet ~ a modern js dialect</title>
+    </bookmark>
+    <bookmark href="https://ui.lndev.me/components" id="350">
+      <title>lndev/ui ~ component library</title>
+    </bookmark>
+    <bookmark href="https://favycon.vercel.app/" id="351">
+      <title>favycon ~ favicon generator</title>
+    </bookmark>
+  </folder>
+  <folder id="328">
+    <title>sys</title>
+    <bookmark href="https://bible.malcore.io/readme/the-beginning/introduction-to-c" id="352">
+      <title>introduction to c</title>
+    </bookmark>
+  </folder>
 </folder>
 </xbel>
