@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :304: for Floccus bookmark sync browser extension -->
+<!--- highestId :307: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>dev</title>
@@ -718,6 +718,15 @@
   </bookmark>
   <bookmark href="https://near.blog/supplements/" id="304">
     <title>Supplements | near.blog</title>
+  </bookmark>
+  <bookmark href="https://www.top500.org/" id="305">
+    <title>Home - | TOP500</title>
+  </bookmark>
+  <bookmark href="https://inference.cerebras.ai/" id="306">
+    <title>Cerebras Inference</title>
+  </bookmark>
+  <bookmark href="https://github.com/MauriceNino/dashdot" id="307">
+    <title>MauriceNino/dashdot: A simple, modern server dashboard, primarily used by smaller private servers</title>
   </bookmark>
 </folder>
 </xbel>
