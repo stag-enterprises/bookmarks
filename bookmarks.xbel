@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :358: for Floccus bookmark sync browser extension -->
+<!--- highestId :364: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>root</title>
@@ -756,4 +756,22 @@
     <title>Avalonia UI</title>
   </bookmark>
 </folder>
+<bookmark href="https://andyogo.github.io/custom-element-reactions-diagram/" id="359">
+  <title>Custom Element Reactions diagram</title>
+</bookmark>
+<bookmark href="https://webcomponents.dev/blog/all-the-ways-to-make-a-web-component/" id="360">
+  <title>All the Ways to Make a Web Component - Feb 2022 Update</title>
+</bookmark>
+<bookmark href="https://svelte.dev/" id="361">
+  <title>Svelte • Web development for the rest of us</title>
+</bookmark>
+<bookmark href="https://ddosecrets.com/" id="362">
+  <title>Home - Distributed Denial of Secrets</title>
+</bookmark>
+<bookmark href="https://projectdiscovery.io/" id="363">
+  <title>ProjectDiscovery - Vulnerability management</title>
+</bookmark>
+<bookmark href="https://www.chatons.org/en/search/by-service?service_type_target_id=All&amp;field_alternatives_aux_services_target_id=All&amp;field_software_target_id=All&amp;field_is_shared_value=All&amp;title=" id="364">
+  <title>Find by service | CHATONS</title>
+</bookmark>
 </xbel>
